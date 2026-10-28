@@ -1,0 +1,58 @@
+h1 {
+	 color: #00591e;
+	 font-size: 24px;
+ }
+ button {
+	 padding: 10px 20px;
+	 background-color: #007BFF;
+	 color: white;
+	 border: none;
+	 border-radius: 5px;
+	 cursor: pointer;
+ }
+ button:hover {
+	 background-color: #0056b3;
+ }
+
+ h2 {
+	 color: #00591e;
+	 font-size: 24px;
+ }
+ button {
+	 padding: 10px 20px;
+	 background-color: #007BFF;
+	 color: white;
+	 border: none;
+	 border-radius: 5px;
+	 cursor: pointer;
+ }
+ button:hover {
+	 background-color: #0056b3;
+ }
+
+ .judul {
+    color: #00591e;
+    font-size: 24px;
+ }
+
+ #btn-simpan {
+    background-color: #007BFF;
+    color: white;
+ }
+
+ button:hover {
+    background-color: #0056b3;
+ }
+
+ .navbar {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: flex-start;
+   gap: 16px;
+ }
+
+ .navbar nav {
+    display: flex;
+    gap: 16px;
+ }
